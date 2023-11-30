@@ -1,0 +1,96 @@
+.fb{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    margin-top: 33px;
+    margin-left: 23px;
+    margin-right: 25px;
+    margin-bottom: 23px;
+    background-color: #1877f2;
+    display: flex;
+}
+.img{
+  margin-top: 7px;
+  margin-left: 9px;
+}
+.button{
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 13px;
+    margin-left: 75px;
+    margin-right: 92px;
+    margin-bottom: 14px;
+    display: flex;
+}
+.text1{
+    width: 145px;
+    height: 21px;
+    color: rgba(255, 255, 255, 0.90);
+}
+.img2{
+    margin-top: 7px;
+    margin-left: 9px;
+}
+.gg{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.40) ;
+    margin-top: 33px;
+    margin-left: 23px;
+    margin-right: 25px;
+    margin-bottom: 23px;
+    background-color: rgba(255, 255, 255, 0.02);
+    display: flex;
+}
+.button2{
+    color: rgba(0, 0, 0, 0.60);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 13px;
+    margin-left: 75px;
+    margin-right: 92px;
+    margin-bottom: 14px;
+    display: flex;
+}
+.text2{
+    width: 145px;
+    height: 21px;
+    color: rgba(0, 0, 0, 0.60);  
+}
+.box{
+    display: flex;
+}
+.avt{
+    width: 48px;
+    height: 48px;
+    margin-top: 0px;
+    margin-right: 24px;
+    margin-bottom: 8px;
+    border: 1px solid #1877f2;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.90);
+}
+.info{
+    width: 138px;
+    height: 36px;
+    margin-right: 6px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 0px;
+}
+.big{
+    width: 360px;
+    height: 800px;
+}

@@ -1,0 +1,73 @@
+.Section-Recommend{width: 1180px;
+    height: 700px ;
+    border: 1px solid rgb(103, 108, 108);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    .title{
+        width: 1180px;
+        height: 32px;
+    }
+    .titlep{
+        font-size: 25px;
+        font-weight: bolder;
+        margin-top: auto;
+        
+    }
+    .item{
+        height: 310px;
+        width: 220px;
+        border: 0.1px solid rgb(197, 192, 192);
+        border-radius: 5px;
+    }
+    }
+    .itemimage{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 20px;
+        width: 200px;
+        height: 201px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .itemqa{
+        font-size: 22px;
+        font-weight: bolder;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    .itemtt{
+        font-size: 20px;
+        color: rgb(67, 70, 72);
+        margin-left:20px ;
+        margin-top: 5px;
+    }
+    .itemhang{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .tool{
+        width: 1180px;
+        height: 420px;
+        flex-shrink: 0;
+        background: linear-gradient(95deg, #2C7CF1 7.19%, rgba(0, 209, 255, 0.50) 89.49%);
+    }
+    .captool{
+        color: #FFF;
+        font-feature-settings: 'clig' off, 'liga' off;
+
+        /* Title-H2 */
+        font-family: Inter;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        letter-spacing: -0.2px;
+    }
