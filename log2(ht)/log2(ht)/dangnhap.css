@@ -1,0 +1,210 @@
+.sigup{
+    width: 360px;
+    height: 800px;
+    top: -318px;
+    left: 212px;
+    border: 1px solid black;
+    margin-left: 29px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.text-sigup{
+    width: 87px;
+    height: 36px;
+    margin-top: 119px;
+    margin-left: 140px;
+    font-size: 24px;
+    font-weight: 1000;
+    display: flex;
+    align-items: center;
+}
+.khung1{
+    width: 312px;
+height: 48px;
+margin-top: 24px;
+margin-left: 24px;
+border-radius: 10px;
+border: 1px solid black;
+
+}
+.text1{
+    width: 126px;
+    height: 18px;
+   margin-top: 15px;
+    font-size: 12px;
+    opacity: 70%;
+    border: 1px solid white;
+
+}
+.text2{
+width: 96px;
+height: 18px;
+top: 295px;
+left: 28px;
+font-size: 12px;
+margin-top: 15px;
+border: 1px solid white;
+color:black ;
+opacity: 70%;
+}
+.text3{
+width: 153px;
+height: 18px;
+top: 370px;
+left: 33px;
+font-size: 12px;
+margin-top: 15px;
+border: 1px solid white;
+opacity: 70%;
+}
+.text4{
+    width: 122px;
+height: 18px;
+top: 370px;
+left: 33px;
+font-size: 12px;
+border: 1px solid white;
+margin-top: 15px;
+opacity: 70%;
+}
+.mat{
+    width: 24px;
+height: 24px;
+top: 443px;
+margin-left: 146px;
+margin-top:  12px; 
+
+}
+.khung4{
+    width: 312px;
+height: 48px;
+margin-top: 24px;
+margin-left: 24px;
+border-radius: 10px;
+border: 1px solid black;
+display: flex;
+}
+.login-fomr{
+    width: 360px;
+    height: 800px;
+    color: white;
+    border: 1px solid rgb(0, 0, 0);
+}
+.Rectangle5{
+    width: 312px;
+    height: 48px; 
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 24px;
+    background-color: #0E64D2;
+    display: flex;
+    flex-direction: column;
+}
+.chu1{
+font-size: 14px;
+width: 50px;
+height: 21px;
+color: white;
+margin-left:131px ;
+margin-top: 13px;
+
+}
+.grour1{
+    width: 232px;
+height : 21px;
+margin-top: 22px;
+margin-left: 64px;
+display: flex;
+}
+
+.chu2{
+    width: 186px;
+    height: 21px;
+    color: #000;
+    font-size: 17px;
+  
+}
+.chu3{
+    width: 38px;
+  height: 21px;
+    color:  #0E64D2;
+    font-size: 16px;
+    margin-left: 8px;
+    
+}
+.treebig{
+    display: flex;
+}
+.tree{
+    width: 139px;
+    height: 0px;
+    margin-top: 32px;
+    margin-left: 24px;
+    border: 1px solid black;
+}
+.tree1{
+    width: 139px;
+    height: 0px;
+    margin-top: 32px;
+    margin-right: 24px;
+    border: 1px solid black;
+}
+.Or{
+    width: 17px;
+    height: 21px;
+    margin-top:23px ;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 14px;
+    color: #000;
+}
+.facebook{
+    width: 312px;
+    height: 48px;
+    margin-top:24px ;
+    margin-left: 24px;
+    border-radius: 5px;
+    background-color: #0E64D2;
+    display:flex;
+}
+.logo1{
+width: 26px;
+height: 26px;
+margin-top :8px; 
+margin-left:11px ;
+}
+.chu4{
+width: 145px;
+height: 21px;
+margin-top :15px; 
+margin-left:49px ;
+color: white;
+font-size: 14px;
+}
+.google{
+    width: 312px;
+    height: 48px;
+    margin-top:28px ;
+    margin-left: 24px;
+    border-radius: 5px;
+display: flex;
+border: 1px solid black;
+}
+.logo2{
+    width: 26px;
+    height: 26px;
+    margin-top :8px; 
+    margin-left:11px ;
+}
+.chu5{
+    width: 145px;
+    height: 21px;
+    margin-top :13px; 
+    margin-left:59px ;
+    color: black;
+    font-size: 14px;
+}
+.dangnhap{
+    margin-top: 0px;
+}
